@@ -62,7 +62,7 @@ Each assignment is stored in a separate folder. Below is the directory structure
 ## How to Use This Repository
 1. Clone this repository to your local machine:
    ```
-   git clone [<repository_url>](https://github.com/SanaullahKayani/Machine-Learning-using-Matlab.git)
+   git clone https://github.com/SanaullahKayani/Machine-Learning-using-Matlab.git
    ```
 2. Navigate to the desired assignment folder.
 3. Open the `code.py` file to explore the Python implementation.
